@@ -1,0 +1,9 @@
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.deps.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\bin\Debug\netcoreapp3.1\ServerCore.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.csprojAssemblyReference.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.csproj.CoreCompileInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfoInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfo.cs
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\ServerCore\obj\Debug\netcoreapp3.1\ServerCore.pdb

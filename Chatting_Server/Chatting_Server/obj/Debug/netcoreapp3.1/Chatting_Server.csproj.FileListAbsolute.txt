@@ -1,0 +1,16 @@
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.csprojAssemblyReference.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.csproj.CoreCompileInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.AssemblyInfoInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.AssemblyInfo.cs
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\Chatting_Server.exe
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\Chatting_Server.deps.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\Chatting_Server.runtimeconfig.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\Chatting_Server.runtimeconfig.dev.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\Chatting_Server.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\Chatting_Server.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\ServerCore.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\bin\Debug\netcoreapp3.1\ServerCore.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.csproj.CopyComplete
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\Chatting_Server\obj\Debug\netcoreapp3.1\Chatting_Server.genruntimeconfig.cache

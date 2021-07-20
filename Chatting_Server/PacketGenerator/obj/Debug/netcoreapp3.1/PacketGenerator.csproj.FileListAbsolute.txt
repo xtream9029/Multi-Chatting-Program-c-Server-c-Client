@@ -1,0 +1,13 @@
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.exe
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.deps.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.dev.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\bin\Debug\netcoreapp3.1\PacketGenerator.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.csprojAssemblyReference.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.csproj.CoreCompileInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.AssemblyInfoInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.AssemblyInfo.cs
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Server\PacketGenerator\obj\Debug\netcoreapp3.1\PacketGenerator.genruntimeconfig.cache

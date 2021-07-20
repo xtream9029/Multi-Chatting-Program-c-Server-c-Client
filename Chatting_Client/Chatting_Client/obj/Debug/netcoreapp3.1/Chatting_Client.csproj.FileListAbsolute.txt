@@ -1,0 +1,16 @@
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.csprojAssemblyReference.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.csproj.CoreCompileInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.AssemblyInfoInputs.cache
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.AssemblyInfo.cs
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\Chatting_Client.exe
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\Chatting_Client.deps.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\Chatting_Client.runtimeconfig.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\Chatting_Client.runtimeconfig.dev.json
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\Chatting_Client.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\Chatting_Client.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\ServerCore.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\bin\Debug\netcoreapp3.1\ServerCore.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.csproj.CopyComplete
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.dll
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.pdb
+D:\c#ServerPratice\ChattingProgram\Chatting_Client\Chatting_Client\obj\Debug\netcoreapp3.1\Chatting_Client.genruntimeconfig.cache
